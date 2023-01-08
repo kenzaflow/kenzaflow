@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kevin Zaracho</h1>
 <h3 align="center">Web Full Stack Developer - Front End specialist.</h3>
 
-- 👨‍💻 All of my projects are available at [www.kenza.ar](www.kenza.ar)
+- 👨‍💻 All of my projects are available at [www.kenza.ar](https://www.kenza.ar)
 
 - 📫 How to reach me **kevin.isap99@gmail.com**
 
-- 📄 Know about my experiences [www.kenza.ar](www.kenza.ar)
+- 📄 Know about my experiences [www.kenza.ar]([www.kenza.ar](https://www.kenza.ar))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
