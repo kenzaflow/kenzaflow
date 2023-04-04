@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kevin Zaracho</h1>
-<h3 align="center">Web Full Stack Developer - Front End specialist.</h3>
+<h3 align="center">Front End Web Developer.</h3>
 
 - 👨‍💻 All of my projects are available at [www.kenza.ar](https://www.kenza.ar)
 
